@@ -17,3 +17,9 @@
 <section id="p">
 <img src="samochod.png" alt="grafika:samochód">
 </section>
+<section id="gl">
+<h2>Oferujemy paliwa</h2>
+ <table style="margin: auto;">
+  <tr>
+    <td>Rodzaj</td>   <td>cena</td>
+  </tr>	
