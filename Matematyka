@@ -8,3 +8,13 @@
 
 <body>
 <header>
+<div id="b1">
+<img src="logo.jpg" alt="matematyka">
+</div>
+<div id="b2">
+<h1>Pomocnik Matematyczny</h2>
+</div>
+<div id="b3">
+<a href="dzialania.html"><h4>Działania</h4></a>
+</div>
+<div id="b4">
