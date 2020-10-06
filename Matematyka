@@ -18,3 +18,17 @@
 <a href="dzialania.html"><h4>Działania</h4></a>
 </div>
 <div id="b4">
+<a href="mnozenie.html"><h4>Tabliczka mnożenia</h4></a>
+</div>
+</header>
+<div id="l">
+<img src="obraz2.jpg" alt="tabliczka mnożenia">
+</div>
+<div id="p">
+ <ul>
+  <li>dodawanie</li>
+  <li>odejmowanie</li>
+  <li>mnożenie</li>
+  <li>dzielenie</li>
+  <li>potęgowanie</li>
+ 
