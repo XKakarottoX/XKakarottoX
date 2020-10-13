@@ -11,3 +11,22 @@
 <h2>Salon Fryzjerski</h2>
 </header>
 
+<section id="l">
+<a href="index.html"></a><br/>
+<a><img src="obraz1.png"></a>
+</section>
+
+<section id="p">
+<img src="obraz2.png">
+</section>
+
+
+<section id="sl">
+<p>Stronę opracował: XKakarottoX</p>
+</section>
+
+<section id="sp">
+
+</section>
+
+</body>
