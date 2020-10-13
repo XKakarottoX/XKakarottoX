@@ -7,26 +7,33 @@
 </head>
 
 <body>
-<header>
-<h2>Salon Fryzjerski</h2>
-</header>
+<div>
+<a href="index.html"><u><center>Salon Fryzjerski</center></u></a>
+<a><center><img src="obraz2.jpg" alt="Czesanie"></center></a>
+</div>
 
-<section id="l">
-<a href="index.html"></a><br/>
-<a><img src="obraz1.png"></a>
-</section>
+<div id="menu">
+    <h1>Menu</h1>
+</div>
 
-<section id="p">
-<img src="obraz2.png">
-</section>
+<div id="list">
+   <o1>
+     <a herf="fryzura.html"> Strzyzenie</li>
+<ul>
+    <li>Krotkie</li>
+<li>Srednie</li>
+<li>Poldlguie</li>
+<li>Dlugie</li>
+     <ul>
+<li>Czesanie</li>
+<li>Koloryzajca</li>
+</ol>
+</div>
 
+<div id="fryzier">
+     <a><img src="obraz1.jpg" alt="Fryzier"></a>
+</div>
 
-<section id="sl">
-<p>Stronę opracował: XKakarottoX</p>
-</section>
-
-<section id="sp">
-
-</section>
-
-</body>
+<footer>
+    <p>XKakarottoX</p>
+</footer>
